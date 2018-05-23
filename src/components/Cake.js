@@ -1,5 +1,5 @@
 import React from "react";
-import "./Cake.css";
+import "../../src";
 const Cake = props => {
   return (
     <div>
@@ -10,3 +10,10 @@ const Cake = props => {
   );
 };
 export default Cake;
+
+
+
+// function Cake(props){
+//   return props
+// }
+
